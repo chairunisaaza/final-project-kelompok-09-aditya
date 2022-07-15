@@ -1,12 +1,12 @@
-Accelerated Machine Learning Program
+# Accelerated Machine Learning Program
 
-Anggota Kelompok:
+Anggota Kelompok 9:
 
 
-#### Chairunisa Az Zahra Arifin
-#### Oktaviani Nurlinda Sari
+#### - Chairunisa Az Zahra Arifin
+#### - Oktaviani Nurlinda Sari
 
-Nama Mentor: Aditya Bariq
+Nama Mentor: Aditya Bariq Ikhsan
 
 Nama Dataset: Customer Churn
 
